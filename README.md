@@ -9,7 +9,7 @@
 
 - 접속한 위치 날씨정보 확인
 
-#### [GitHub-Pages 보러가기](https://yj-seol.github.io/snowFlake/) 🔗
+
 
 
 ## Reference
